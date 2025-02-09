@@ -1,0 +1,17 @@
+---
+title: "NarSUM '22: Proceedings of the 1st Workshop on User-centric Narrative Summarization
+  of Long Videos, Lisboa, Portugal, 10 October 2022"
+authors:
+- Mohan S. Kankanhalli
+- Jianquan Liu
+- Yongkang Wong
+date: '2022-01-01'
+publishDate: '2025-02-09T20:53:12.630485Z'
+publication_types:
+- book
+publication: '*ACM*'
+doi: 10.1145/3552463
+links:
+- name: URL
+  url: https://doi.org/10.1145/3552463
+---
