@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jianquan Liu (a.k.a., Ken)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jianquan Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jianquan
+last_name: Liu
 
 # Status emoji
 status:
@@ -20,35 +20,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Director & Senior Principal Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: NEC Corporation
+    url: https://www.nec.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jqliu@acm.org'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://twitter.com/ryukenzen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://jp.linkedin.com/in/jianquan-liu-nec
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Multimedia Database
   - Information Retrieval
 
 education:
@@ -183,4 +175,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jianquan Liu is currently the Director and Head of Video Insights Discovery Research Group at the Visual Intelligence Research Laboratories of NEC Corporation, working on the topics of multimedia data processing. He is also a Visiting Professor at Nagoya University and an Adjunct Professor at Hosei University, Japan. Prior to NEC, he was a development engineer in Tencent Inc. from 2005 to 2006, and was a visiting researcher at the Chinese University of Hong Kong in 2010. His research interests include high-dimensional similarity search, multimedia databases, web data mining and information retrieval, cloud storage and computing, and social network analysis. He has published 80+ papers at major international/domestic conferences and journals, received 30+ international/domestic awards, and filed 100+ PCT patents. He also successfully transformed these technological contributions into commercial products in the industry. Currently, he is/was serving as the Industry Co-chair of IEEE ICIP 2023, 2025 and ACM MM 2023, 2024, 2025; the General Co-chair of IEEE MIPR 2021; the PC Co-chair of IEEE IRI 2022, ICME 2020, AIVR 2019, BigMM 2019, ISM 2018, ICSC 2018, ISM 2017, ICSC 2017, IRC 2017, and BigMM 2016; the Workshop Co-chair of IEEE AKIE 2018 and ICSC 2016; the Demo Co-chair of IEEE MIPR 2019 and MIPR 2018. He is a senior member of ACM, IEEE, and IPSJ, and a member of IEICE, APSIPA and the Database Society of Japan (DBSJ), a member of expert committee for IEICE Mathematical Systems Science and its Applications (2017-), and IEICE Data Engineering (2015-2021), and an associate editor of IEEE TMM (2023-), ACM TOMM (2022-), EURASIP JIVP (2023-), IEEE MultiMedia Magazine (2019-2022), ITE Transaction on Media Technology and Applications (2021-), APSIPA Transactions on Signal and Information Processing (2022-), and the Journal of Information Processing (2017-2021). Dr. Liu received the M.E. and Ph.D. degrees from the University of Tsukuba, Japan.
